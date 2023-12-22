@@ -1,0 +1,10 @@
+**/.terraform/**
+**tfstate*
+**/*.pem
+terraform.tfvars
+**/account.json
+**/credentials
+.terraform
+.terraform.tfstate.d
+credentials*.json
+.terraform.lock.hcl
